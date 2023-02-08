@@ -1,10 +1,8 @@
-# software-development-setup
+# Software Development Setup
 
 These are the tools I use in my day-to-day software development.
 
 ## general
-
-<br />
 
 > Homebrew
 
@@ -47,8 +45,6 @@ brew install --cask tableplus
 ```
 
 ## for Java
-
-<br />
 
 > SdkMan
 

@@ -44,6 +44,18 @@ brew install --cask visual-studio-code
 brew install --cask tableplus
 ```
 
+> Rectangle
+
+```
+brew install --cask rectangle
+```
+
+> Clipy
+
+```
+brew install --cask clipy
+```
+
 ## for Java
 
 > SdkMan

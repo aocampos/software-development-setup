@@ -44,6 +44,14 @@ brew install --cask visual-studio-code
 brew install --cask tableplus
 ```
 
+> Postman
+
+```
+brew install --cask postman
+```
+
+## Mac utilities
+
 > Rectangle
 
 ```
